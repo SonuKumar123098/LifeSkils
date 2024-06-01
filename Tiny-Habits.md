@@ -38,8 +38,8 @@ Habit: Reading more books.
 
 Steps:
 
-M* ake the cue obvious: Place a book on your nightstand or desk where you can see it.
-Make the habit more attractive: Choose books you are excited to read or join a book club.
+* Make the cue obvious: Place a book on your nightstand or desk where you can see it.
+* Make the habit more attractive: Choose books you are excited to read or join a book club.
 * Make the habit easier: Set a small goal, like reading one page a day.
 * Make the response satisfying: Reward yourself after finishing a chapter or book, like having a favorite snack or taking a break.
 ### 9. Pick one habit that you would like to eliminate or do less of? What are the steps that you can take to make it make the cue invisible or the process unattractive or hard or the response unsatisfying?Habit: Spending too much time on social media.
